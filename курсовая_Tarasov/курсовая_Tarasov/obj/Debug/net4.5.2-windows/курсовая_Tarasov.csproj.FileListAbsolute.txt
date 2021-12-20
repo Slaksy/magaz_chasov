@@ -1,0 +1,12 @@
+C:\Users\d8904\source\repos\курсовая_Tarasov\курсовая_Tarasov\bin\Debug\net4.5.2-windows\курсовая_Tarasov.exe.config
+C:\Users\d8904\source\repos\курсовая_Tarasov\курсовая_Tarasov\bin\Debug\net4.5.2-windows\курсовая_Tarasov.exe
+C:\Users\d8904\source\repos\курсовая_Tarasov\курсовая_Tarasov\bin\Debug\net4.5.2-windows\курсовая_Tarasov.pdb
+C:\Users\d8904\source\repos\курсовая_Tarasov\курсовая_Tarasov\obj\Debug\net4.5.2-windows\курсовая_Tarasov.csproj.AssemblyReference.cache
+C:\Users\d8904\source\repos\курсовая_Tarasov\курсовая_Tarasov\obj\Debug\net4.5.2-windows\курсовая_Tarasov.csproj.GenerateResource.cache
+C:\Users\d8904\source\repos\курсовая_Tarasov\курсовая_Tarasov\obj\Debug\net4.5.2-windows\курсовая_Tarasov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d8904\source\repos\курсовая_Tarasov\курсовая_Tarasov\obj\Debug\net4.5.2-windows\курсовая_Tarasov.AssemblyInfoInputs.cache
+C:\Users\d8904\source\repos\курсовая_Tarasov\курсовая_Tarasov\obj\Debug\net4.5.2-windows\курсовая_Tarasov.AssemblyInfo.cs
+C:\Users\d8904\source\repos\курсовая_Tarasov\курсовая_Tarasov\obj\Debug\net4.5.2-windows\курсовая_Tarasov.csproj.CoreCompileInputs.cache
+C:\Users\d8904\source\repos\курсовая_Tarasov\курсовая_Tarasov\obj\Debug\net4.5.2-windows\курсовая_Tarasov.exe
+C:\Users\d8904\source\repos\курсовая_Tarasov\курсовая_Tarasov\obj\Debug\net4.5.2-windows\курсовая_Tarasov.pdb
+C:\Users\d8904\source\repos\курсовая_Tarasov\курсовая_Tarasov\obj\Debug\net4.5.2-windows\курсовая_Tarasov.Chasy.resources

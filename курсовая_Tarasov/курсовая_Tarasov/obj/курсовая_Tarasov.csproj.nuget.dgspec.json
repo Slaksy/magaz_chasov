@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\d8904\\source\\repos\\курсовая_Tarasov\\курсовая_Tarasov\\курсовая_Tarasov.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\d8904\\source\\repos\\курсовая_Tarasov\\курсовая_Tarasov\\курсовая_Tarasov.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\d8904\\source\\repos\\курсовая_Tarasov\\курсовая_Tarasov\\курсовая_Tarasov.csproj",
+        "projectName": "курсовая_Tarasov",
+        "projectPath": "C:\\Users\\d8904\\source\\repos\\курсовая_Tarasov\\курсовая_Tarasov\\курсовая_Tarasov.csproj",
+        "packagesPath": "C:\\Users\\d8904\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\d8904\\source\\repos\\курсовая_Tarasov\\курсовая_Tarasov\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\d8904\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net452"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net452": {
+            "targetAlias": "net4.5.2-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net452": {
+          "targetAlias": "net4.5.2-windows",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
